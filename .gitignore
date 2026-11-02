@@ -2,7 +2,8 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .venv/
-.env
 data/appointments.csv
 artifacts/best_model.joblib
 artifacts/model_metadata.json
+config.bat
+node_modules
