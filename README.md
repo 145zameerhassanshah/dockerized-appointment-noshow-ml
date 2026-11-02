@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Appointment No-Show Prediction Pipeline
 
 Real-world-inspired CMIT AI Internship project that estimates appointment no-show likelihood so clinic staff can prioritize reminder and confirmation effort.
@@ -61,3 +62,7 @@ pytest -v
 
 ## Important Limitation
 Synthetic educational data only. No clinical use, no real patient data, no production-readiness claim.
+=======
+# dockerized-appointment-noshow-ml
+Containerized appointment no-show ML system with automated preprocessing, multi-model evaluation, best-model selection, versioned artifacts, FastAPI inference, and automated tests.
+>>>>>>> afe5a23eb00cfc49c17402bd9207d543ef30ce9e
